@@ -2,12 +2,18 @@
 
 Aplikasi Agro Wisata Build In Cordova
 
+## Keterangan
+
+Aplikasi Di Buat Dengan Framework Apache Cordova Versi 8, dengan Platform Node.JS dengan Style Leaflet
+
 ## Persyaratan
 
-* Node.JS
+* Node.JS ^8.0
 * Android Studio
-* Apache Cordova
+* Apache Cordova ^6.0
 * Java Developement Kit 8
+* SDK android platform ^23
+* Gradle ^5.0
 
 ## Installation
 
